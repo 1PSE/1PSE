@@ -79,13 +79,3 @@
     alt="Top Languages"
   />
 </p>
-
-<h3>🌱 Contributions</h3>
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/1PSE"
-    alt="GitHub Contributions"
-  />
-</p>
-
