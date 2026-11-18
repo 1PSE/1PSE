@@ -65,8 +65,27 @@
 
 ---
 
-### 🌱 Contributions
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/1PSE" alt="1PSE GitHub contribution calendar" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=1PSE&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1PSE&layout=compact&langs_count=6&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
+
+<h3>🌱 Contributions</h3>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/1PSE"
+    alt="GitHub Contributions"
+  />
+</p>
+
